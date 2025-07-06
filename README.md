@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bc/0f/3d/bc0f3d8f8f7c59ad88f3cbf15c6ac2b3.gif" width="200" alt="anime profile" />
-</p>
+  <img src="https://avatars.githubusercontent.com/u/139893416?v=4" width="200" alt="anime avatar" />
+</p
 
 
 <h1 align="center">Turning Ideas Into Apps 🌍</h1>
